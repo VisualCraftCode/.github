@@ -1,8 +1,7 @@
-## Hi there 👋
-
+![VisualCraftCode-Banner](https://github.com/VisualCraftCode/.github/assets/87731710/7654a687-a389-41ba-84b4-322bb2681272)
 <!--
 
-**Here are some ideas to get you started:**
+**Here are some ideas to get you started:**!
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
