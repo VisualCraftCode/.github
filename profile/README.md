@@ -1,6 +1,7 @@
-![VisualCraftCode-Banner](https://github.com/VisualCraftCode/.github/assets/87731710/7654a687-a389-41ba-84b4-322bb2681272)
+![VisualCraftCode-Banner](https://github.com/VisualCraftCode/.github/assets/87731710/460a1c43-df29-4708-98df-91157f3ec370)
 
 ## The idea behind this project? 💡
+
 Introducing a groundbreaking software that opens the world of Minecraft plugin development to everyone, regardless of coding experience. Unleash your creativity with our user-friendly platform, allowing even non-coders to develop Minecraft plugins effortlessly.
 
 Experience a significant acceleration in the development process through our intuitive GUI editor. Speed up your project timeline and witness the seamless integration of your ideas into the Minecraft universe.
